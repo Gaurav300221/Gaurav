@@ -1,4 +1,4 @@
-[![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)]
+![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding"width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
